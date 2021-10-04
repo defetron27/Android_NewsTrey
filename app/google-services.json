@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932803905785",
+    "firebase_url": "https://newstrey-409ab.firebaseio.com",
+    "project_id": "newstrey-409ab",
+    "storage_bucket": "newstrey-409ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932803905785:android:91cfce32dd27fd62",
+        "android_client_info": {
+          "package_name": "com.max.def.newstrey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932803905785-4n18f41lv9h2ukl96d6kr27jpaeo5enq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.max.def.newstrey",
+            "certificate_hash": "9a94e98fe0120b904d7deec0063a716c4f3a9a2a"
+          }
+        },
+        {
+          "client_id": "932803905785-pmva8foa9el0mtf3n31defkjv233p7h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoizGWmikeey6Tam3JDfcvf1-MNnPv7KM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932803905785-pmva8foa9el0mtf3n31defkjv233p7h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
